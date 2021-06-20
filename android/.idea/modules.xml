@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/MySlidingPage.iml" filepath="$PROJECT_DIR$/.idea/modules/MySlidingPage.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/MySlidingPage.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/MySlidingPage.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/204505544/MySlidingPage.react-native-async-storage_async-storage.iml" filepath="$PROJECT_DIR$/.idea/modules/204505544/MySlidingPage.react-native-async-storage_async-storage.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1745972696/MySlidingPage.react-native-community_netinfo.iml" filepath="$PROJECT_DIR$/.idea/modules/-1745972696/MySlidingPage.react-native-community_netinfo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-540006701/MySlidingPage.react-native-gesture-handler.iml" filepath="$PROJECT_DIR$/.idea/modules/-540006701/MySlidingPage.react-native-gesture-handler.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1395971708/MySlidingPage.react-native-safe-area-context.iml" filepath="$PROJECT_DIR$/.idea/modules/1395971708/MySlidingPage.react-native-safe-area-context.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/2035736980/MySlidingPage.react-native-screens.iml" filepath="$PROJECT_DIR$/.idea/modules/2035736980/MySlidingPage.react-native-screens.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/707195359/MySlidingPage.react-native-splash-screen.iml" filepath="$PROJECT_DIR$/.idea/modules/707195359/MySlidingPage.react-native-splash-screen.iml" />
+    </modules>
+  </component>
+</project>

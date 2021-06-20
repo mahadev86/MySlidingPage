@@ -1,0 +1,6 @@
+module Pods_MySlidingPage {
+  umbrella header "Pods-MySlidingPage-umbrella.h"
+
+  export *
+  module * { export * }
+}
