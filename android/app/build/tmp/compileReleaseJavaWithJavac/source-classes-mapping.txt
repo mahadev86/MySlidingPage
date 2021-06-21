@@ -1,0 +1,9 @@
+com/myslidingpage/MainApplication.java
+ com.myslidingpage.MainApplication
+ com.myslidingpage.MainApplication$1
+com/myslidingpage/BuildConfig.java
+ com.myslidingpage.BuildConfig
+com/myslidingpage/MainActivity.java
+ com.myslidingpage.MainActivity
+com/facebook/react/PackageList.java
+ com.facebook.react.PackageList
